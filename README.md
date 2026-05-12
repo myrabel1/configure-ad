@@ -57,7 +57,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <br />
 
 <p>
-<img width="750" height="532" alt="create_admin_user" src="https://github.com/user-attachments/assets/b7f62bbf-7034-4005-9023-5a7f3b31f986" />
+<img width="755" height="525" alt="add_to_domain_admins" src="https://github.com/user-attachments/assets/ab16ba0c-1f54-4479-8420-29c460306f0a" />
+
 
 </p>
 <p>
