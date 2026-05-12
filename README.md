@@ -52,7 +52,7 @@ The tab "users" offers the ability to add users
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Organizational units are so integral in Active Directory. In order to add a new user with Administrative priveledges, one must be mindful to use the Admins tab. This will help organize employees with elevated permissions and access 
 </p>
 <br />
 
