@@ -24,7 +24,7 @@ This tutorial displays the utilization of users in Active Directory within Azure
 
 - Creating Organizational Units
 - Creating Users
-- Step 3
+- Creating a new user who's an administrator
 - Step 4
 
 <h2>Deployment and Configuration Steps</h2>
