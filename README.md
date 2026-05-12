@@ -34,7 +34,7 @@ This tutorial displays the utilization of users in Active Directory within Azure
 
 </p>
 <p>
-Administrators who use Active Directory can create folders to keep items very organized. These individualized folders separate categories like employees, departments like maintenance and even objects like printers and computers
+In the "my domain" tab, administrators who use Active Directory can create folders to keep items very organized and easier to manage. These individualized folders separate categories like employees, departments like maintenance and even objects like printers and computers
 </p>
 <br />
 
@@ -43,7 +43,7 @@ Administrators who use Active Directory can create folders to keep items very or
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+The tab "users" offers the ability to add users 
 </p>
 <br />
 
