@@ -62,7 +62,7 @@ Organizational units are quite integral in Active Directory. In order to add a n
 
 </p>
 <p>
-Being titled as an administrator is not enough to access elevated user permissions
+Being titled as an administrator is not enough to access elevated user permissions. Via properties, Wonder Woman will have to be added to "Domain Admins" before she will be able to have access to log or use the system as administrator in Active Directory.
 
 
 
