@@ -23,7 +23,7 @@ This tutorial displays the utilization of users in Active Directory within Azure
 <h2>Configurations of users in Active Directory</h2>
 
 - Creating Organizational Units
-- Step 2
+- Creating Users
 - Step 3
 - Step 4
 
