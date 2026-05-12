@@ -20,9 +20,9 @@ This tutorial displays the utilization of users in Active Directory within Azure
 - Windows Server 2025
 - Windows 11
 
-<h2>High-Level Deployment and Configuration Steps</h2>
+<h2>Configurations of users in Active Directory</h2>
 
-- Step 1
+- Creating Organizational Units
 - Step 2
 - Step 3
 - Step 4
