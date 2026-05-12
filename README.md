@@ -27,7 +27,7 @@ This tutorial displays the utilization of users in Active Directory within Azure
 - Creating a new user who's an administrator
 - Creating the new user to have admin priveledges
 
-<h2>Deployment and Configuration Steps</h2>
+<h2>Configurations for users</h2>
 
 <p>
 <img width="755" height="526" alt="image" src="https://github.com/user-attachments/assets/bc73906a-0a5b-47b1-82eb-c60829f7d34c" />
